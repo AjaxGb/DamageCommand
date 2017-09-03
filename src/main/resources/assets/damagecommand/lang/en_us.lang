@@ -1,0 +1,17 @@
+commands.damage.usage=/damage <entity> <amount> [damageType] [params...]
+commands.damage.success=Entity successfully damaged
+commands.damage.failure=Entity resisted all damage
+commands.damage.unknown_type='%s' is not a valid damage type
+
+commands.damage.wrong_params.none='%s' does not take params
+commands.damage.wrong_params='%s' takes these params: %s
+
+commands.damage.params.on_fire=[fireSeconds:int]
+commands.damage.params.player=<attacker:player>
+commands.damage.params.thorns=<enchanted:entity>
+commands.damage.params.mob=<attacker:mob> [weapon:entity]
+commands.damage.params.arrow=<arrow:arrow> [shooter:entity]
+commands.damage.params.fireball=<fireball:fireball> [shooter:entity]
+commands.damage.params.thrown=<thrown:entity> [thrower:entity]
+commands.damage.params.magic=[spell:entity] [caster:entity]
+commands.damage.params.explosion=[bomber:mob]

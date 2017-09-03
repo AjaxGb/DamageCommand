@@ -1,0 +1,8 @@
+[{
+	"modid": "damagecommand",
+	"name": "Damage Command",
+	"description": "Adds a command to precisely damage entities.",
+	"version": "1.0",
+	"mcversion": "1.12.1",
+	"authorList": ["AjaxGb"]
+}]
