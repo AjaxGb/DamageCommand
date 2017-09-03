@@ -2,7 +2,7 @@ Currently, damaging entities using Minecraft commands is an imprecise science.
 Our best option is usually potion effects like `minecraft:instant_damage` and `minecraft:wither`, which are
 imprecise at best. To aggro mobs we have to summon a projectile with the aggro target's UUID as its owner name
 and wait, and if there's another entity near the entity we want to aggro there's no guarantee which will get hit.
-Setting things on fire (or extinguishing them) is difficult outside of tightly controlled environments.
+Setting players on fire (or extinguishing them) is difficult outside of tightly controlled environments.
 
 Therefore, I propose the addition of a `/damage` command.
 
